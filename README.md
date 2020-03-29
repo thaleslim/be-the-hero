@@ -68,5 +68,8 @@ https://feathericons.com
 
 > yarn add axios
 
-https://rocketseat.com.br/week/aulas/11.0?aula=3
-1:21:51
+# Mobile
+
+https://docs.expo.io
+
+https://reactnavigation.org/

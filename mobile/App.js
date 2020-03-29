@@ -1,19 +1,6 @@
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import Routes from './src/routes';
 
 export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Hello</Text>
-    </View>
-  );
+  return <Routes />;
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#7129c1',
-    alignItems: 'center',
-    justifyContent: 'center'
-  }
-});
