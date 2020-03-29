@@ -75,3 +75,5 @@ https://docs.expo.io
 https://reactnavigation.org/
 
 > npx expo install expo-constants
+
+> npx expo install expo-mail-composer
