@@ -77,3 +77,7 @@ https://reactnavigation.org/
 > npx expo install expo-constants
 
 > npx expo install expo-mail-composer
+
+> npm install axios
+
+> npm install intl
