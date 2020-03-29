@@ -65,3 +65,8 @@ https://feathericons.com
 > yarn add react-icons
 
 > yarn add react-router-dom
+
+> yarn add axios
+
+https://rocketseat.com.br/week/aulas/11.0?aula=3
+1:21:51
