@@ -73,3 +73,5 @@ https://feathericons.com
 https://docs.expo.io
 
 https://reactnavigation.org/
+
+> npx expo install expo-constants
