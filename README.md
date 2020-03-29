@@ -59,3 +59,9 @@ describe [migration](https://knexjs.org/#Installation-migrations)
 
 To run frontend use:
 > yarn start
+
+https://feathericons.com
+
+> yarn add react-icons
+
+> yarn add react-router-dom
